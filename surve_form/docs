@@ -6,4 +6,4 @@ User Story #4: I can create the users Course, store, update and I can fetch it f
 User Story #5: I can select the users year of study, store, update and I can fetch it from the db
 User Story #6: I can add the users Reg no, store, update and I can fetch it from the db
 User Story #7: I can  cstore created comments in the db, update it or delete it.
-User Story #7: w HEN i click the submitted button all the inputs are svaed in the const {propertyName} = objectToDestruct;.
+User Story #7: When I click the submitted button all the inputs are svaed in the db.
